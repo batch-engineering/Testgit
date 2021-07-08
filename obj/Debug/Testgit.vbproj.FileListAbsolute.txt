@@ -1,0 +1,12 @@
+C:\temp\Testgit\bin\Debug\Testgit.exe.config
+C:\temp\Testgit\bin\Debug\Testgit.exe
+C:\temp\Testgit\bin\Debug\Testgit.pdb
+C:\temp\Testgit\bin\Debug\Testgit.xml
+C:\temp\Testgit\obj\Debug\Testgit.vbproj.AssemblyReference.cache
+C:\temp\Testgit\obj\Debug\Testgit.Form1.resources
+C:\temp\Testgit\obj\Debug\Testgit.Resources.resources
+C:\temp\Testgit\obj\Debug\Testgit.vbproj.GenerateResource.cache
+C:\temp\Testgit\obj\Debug\Testgit.vbproj.CoreCompileInputs.cache
+C:\temp\Testgit\obj\Debug\Testgit.exe
+C:\temp\Testgit\obj\Debug\Testgit.xml
+C:\temp\Testgit\obj\Debug\Testgit.pdb
